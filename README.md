@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MeliodasJAJA"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 ## Características del bot 
@@ -63,17 +63,17 @@
 2.- Ejecutar el bot en PM2 :
 ```bash 
 
-> pm2 start Quantum.js
+> pm2 start Kaneki.js
 ```
 3.- Detener el bot en PM2 :
 ```bash 
 
-> pm2 stop Quantum.js
+> pm2 stop Kaneki.js
 ```
 4.- Reiniciar el bot en PM2 :
 ```bash 
 
-> pm2 restart Quantum.js
+> pm2 restart Kaneki.js
 ```
 5.- Visualizar proceso en PM2 :
 ```bash 
@@ -88,27 +88,5 @@
 > pm2 kill
 ```
 
-# 🔥Ejecutar el bot 24/7 
-- Es aconsejable que subas el archivo de session.json ya activado, para ya no tener que escanear otro código QR
-
-## Desplegar en Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NeKosmic/Quantum-Bot/)
-
-## Desplegar en Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NeKosmic/Quantum-Bot/)
-
-
-# 😺 Mis redes sociales ✓
-<a href="https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA"><img width="60px" alt="Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYrf6LEg3xKz9iuv3OcmplEWUY8Etgv7e-g&usqp=CAU"/></a>
-
 ## Si encuentras algún error ó necesitas más información, por favor contactame :D
-<a href="https://wa.me/51995386439?text=Wenas...+me+ayudas+con+el+bot+multidevice+:)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-# ♻️ Agradecimientos especiales :3
-
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-<img src="https://github.com/NeKosmic/NK-BOT/blob/main/culebrita.svg" />
-</div>
+<a href="https://wa.me/5216538490293?text=Holis...+¿Me+ayudas+con+el+bot+'KanekiIDK-Bot'+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
