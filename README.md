@@ -17,10 +17,6 @@
 <img src="https://c.tenor.com/ThosT6nI3yQAAAAC/dancing-anime.gif" width="45px">
 
 
-<p align="center">
-<a href="https://github.com/MeliodasJAJA"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
-</p>
-
 ## Características del bot 
 |  Contenido  |                                           Sip |
 | :---------------------------------------------: | :-----------: |
