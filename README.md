@@ -18,29 +18,29 @@
 
 
 ## Características del bot 
-|  Contenido  |                                           Sip |
+|  Contenido  |                                           Y/N |
 | :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
-| Bienvenida automática|✔️|
-| Anti-Link|✔️|
-| Anti-privados|✔️|
-| Anti-Fakes|✔️|
-| Anti-Estranjeros|✔️|
-| Anti-Trabazzz|✔️|
-| Anti-Spam_CMDS|✔️|
-| Creador de logos|✔️|
-| Imagenes-Random|✔️|
-| Juegos|✔️|
-| Modo Publico/Privado|✔️|
-| Modo NSFW|✔️|
-| Chat-Bot|✔️|
-| Descarga de música/videos|✔️|
-| Botones interactivos|✔️|
-| Nuevo estilo multidispositivo|✔️|
+| Crea stickers|⭐|
+| Bienvenida automática|⭐|
+| Anti-Link|⭐|
+| Anti-privados|⭐|
+| Anti-Fakes|⭐|
+| Anti-Estranjeros|⭐|
+| Anti-Trabazzz|⭐|
+| Anti-Spam_CMDS|⭐|
+| Creador de logos|⭐|
+| Imagenes-Random|⭐|
+| Juegos|⭐|
+| Modo Publico/Privado|⭐|
+| Modo NSFW|⭐|
+| Chat-Bot|⭐|
+| Descarga de música/videos|⭐|
+| Botones interactivos|⭐|
+| Nuevo estilo multidispositivo|⭐|
 
 </div>
 
-# 🧑‍💻 Instalacion en termux
+# 💻 Instalacion en termux♿
 ```cmd
 -> pkg install git
 -> git clone https://github.com/MeliodasJAJA/KanekiIDK-Bot
