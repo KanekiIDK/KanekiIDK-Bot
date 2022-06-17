@@ -5,7 +5,7 @@
 </p>
 
 <P align="center">
-[ Bot_Simple_Multi-Dispositivo ]
+[ Normi-Bot ]
 </p>
 
 
