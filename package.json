@@ -1,10 +1,10 @@
 {
-  "name": "Diluc-Bot",
+  "name": "KanekiIDK-Bot",
   "version": "1.0.0",
-  "description": "Bot para Whatsapp en español y un poco multilingüe :v",
-  "main": "Quantum.js",
+  "description": "Bot para Whatsapp en español",
+  "main": "Kaneki.js",
   "scripts": {
-    "start": "node Quantum.js",
+    "start": "node Kaneki.js",
     "type": "commonjs"
   },
   "directories": {
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "𝓡𝓪𝓶𝓸𝓼🕶",
+  "author": "𝓚𝓐𝓝𝓔𝓚𝓘 • 𝐈𝐃𝐊",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -60,10 +60,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeKosmic/Quantum-Bot.git"
+    "url": "git+https://github.com/MeliodasJAJA/KanekiIDK-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/NeKosmic/Quantum-Bot/issues"
+    "url": "https://github.com/MeliodasJAJA/KanekiIDK-Bot"
   },
-  "homepage": "https://github.com/NeKosmic/Quantum-Bot#readme"
+  "homepage": "https://github.com/MeliodasJAJA/KanekiIDK-Bot#readme"
 }
