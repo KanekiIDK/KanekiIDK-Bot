@@ -10,7 +10,7 @@ yarn
 
 echo ""
 echo ""
-echo "Use : npm start para ejecutar al bot :D"
+echo "Use : npm start para ejecutar al bot UwU"
 echo ""
 echo ""
 echo ""
