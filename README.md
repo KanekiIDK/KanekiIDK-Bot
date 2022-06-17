@@ -88,5 +88,5 @@
 > pm2 kill
 ```
 
-## Si encuentras algún error ó necesitas más información, por favor contactame :D
+## Cualquier cosa me puedes contactar UwU
 <a href="https://wa.me/5216538490293?text=Holis...+¿Me+ayudas+con+el+bot+'KanekiIDK-Bot'+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
