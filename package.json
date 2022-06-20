@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "𝓚𝓐𝓝𝓔𝓚𝓘 • 𝐈𝐃𝐊",
+  "author": "KanekiIDK",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -60,10 +60,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MeliodasJAJA/KanekiIDK-Bot.git"
+    "url": "git+https://github.com/NeKosmic/Quantum-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/MeliodasJAJA/KanekiIDK-Bot"
+    "url": "https://github.com/NeKosmic/Quantum-Bot/issues"
   },
-  "homepage": "https://github.com/MeliodasJAJA/KanekiIDK-Bot#readme"
+  "homepage": "https://github.com/NeKosmic/Quantum-Bot#readme"
 }
